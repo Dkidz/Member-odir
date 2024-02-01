@@ -1,1 +1,8 @@
-delayworld = 5000 
+hargapack = 2000 
+namapack = "world_lock" 
+MinItemPack = 3
+maxbuy = 5 
+iditempack = {242}
+DelayRecon = 60000
+MinBW = 100000 
+delayworld = 5000-- DELAY MASUK DOOR
