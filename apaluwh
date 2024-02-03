@@ -11,3 +11,4 @@ minSpec = 100 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
 WorldSpec = "0DVOE19UDN"
 idWorldSpec = "DKIDZ24"
 ID_AcuanDrop_Spec = 20 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
+Leveling = true 
