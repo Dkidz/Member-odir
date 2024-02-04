@@ -1,16 +1,3 @@
-hargapack = 2000 
-namapack = "world_lock" 
-MinItemPack = 3
-maxbuy = 5 
-iditempack = {242}
 DelayRecon = 90000
 nextrandom = false
 delayworld = 5000
-SpecialItem = {5748,5742,5746} --ITEM YANG INGIN DIAMANKAN KE WORLD, COCOK UNTUK HARVEST FEST!
-minSpec = 100 --BOT AKAN DROP ITEM APABILA ITEM TSB MELEBIHI TARGET minSpec
-WorldSpec = "0DVOE19UDN"
-idWorldSpec = "DKIDZ24"
-ID_AcuanDrop_Spec = 20 --BOT AKAN DROP SPECIAL ITEM DI DIRT TREE (3)
-WorldPack = {"QIC1578FZ0U6PNL"}
-WorldSeed = {"QIC1578FZ0U6PNL"}
-WorldWL = {"OSDQQ138CJ","OSDQQ138CJ"}
