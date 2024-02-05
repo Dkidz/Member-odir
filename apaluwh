@@ -1,2 +1,4 @@
 DelayRecon = 90000
 delayworld = 5000
+packName = "signal_jammer"               
+packList = {226}                       
