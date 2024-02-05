@@ -1,4 +1,7 @@
 DelayRecon = 90000
 delayworld = 5000
-packName = "signal_jammer"               
-packList = {226}                       
+hargapack = 2000-- HARGA PACK
+namapack = "signal_jammer" -- NAMA PACK
+MinItemPack = 3--APABILA JUMLAH ITEM YANG ADA DIDALAM 
+maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
+iditempack = {226}
