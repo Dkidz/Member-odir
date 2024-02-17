@@ -5,5 +5,5 @@ MinItemPack = 2--APABILA JUMLAH ITEM YANG ADA DIDALAM
 maxbuy = 5 --MAKSIMAL BOTNYA AKAN REPEAT BELI PACK JIKA 
 iditempack = {242}
 nextrandom = false
-WorldPack = {"8M3PW5N5X0"}
-WorldWL = {"8M3PW5N5X0"}
+WorldPack = {"8HF5ZO1TMP"}
+WorldWL = {"8HF5ZO1TMP"}
